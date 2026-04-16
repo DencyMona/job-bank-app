@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4039321652",
+    "project_id": "tdf-job-bank-c3729",
+    "storage_bucket": "tdf-job-bank-c3729.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4039321652:android:b922ca01f7da42a9a28261",
+        "android_client_info": {
+          "package_name": "com.example.tdf_job_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6zb9VTkufPgqy1V9cvjAraVXjKyLbSmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
